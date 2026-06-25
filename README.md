@@ -1,6 +1,6 @@
 # CSC 308 – Operating Systems Practicals
 **Nnamdi Azikiwe University (UNIZIK)**
-**Student:** [YOUR FULL NAME] | **Reg. No:** [YOUR REG NUMBER]
+**Student:** [Muoneke Christian] | **Reg. No:** 2023514239
 
 ---
 
